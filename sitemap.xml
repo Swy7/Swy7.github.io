@@ -235,6 +235,13 @@
   </url>
   
   <url>
+    <loc>https://swy7.github.io/tags/%E7%9F%A5/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://swy7.github.io/tags/%E7%BF%BB/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
@@ -243,13 +250,6 @@
   
   <url>
     <loc>https://swy7.github.io/tags/%E7%94%9F%E4%BA%8E%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2021-05-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://swy7.github.io/tags/%E7%9F%A5/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
