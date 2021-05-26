@@ -867,7 +867,7 @@ html {
   position: absolute;
   right: 0;
   min-height: 100%;
-  background: #eaeaea;
+  background: #efefd4;
   left: 300px;
   width: auto
 }
@@ -882,7 +882,7 @@ html {
 }
 
 .left-col {
-  background: #fff;
+  background: #f5f5d5;
   width: 300px;
   position: fixed;
   opacity: 1;
@@ -2133,7 +2133,7 @@ pre .id {
   border: 1px solid #ddd;
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
-  background: #fff;
+  background: #f5f5d5;
   transition: all .2s ease-in
 }
 
