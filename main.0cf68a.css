@@ -1697,8 +1697,8 @@ pre .id {
   position: relative;
   margin: 0 30px;
   padding-right: 60px;
-  border-bottom: 1px solid #eee;
-  background: #fff
+  border: 1px solid #ddd;
+  background: #f5f5d5
 }
 
 .archives-wrap:first-child {
@@ -1735,8 +1735,7 @@ pre .id {
 .archives .archive-article {
   margin-left: 200px;
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
-  border-top: 1px solid #fff;
+  border-bottom: 1px solid #ddd;
   position: relative
 }
 
@@ -2131,8 +2130,6 @@ pre .id {
   margin: 30px;
   position: relative;
   border: 1px solid #ddd;
-  border-top: 1px solid #fff;
-  border-bottom: 1px solid #fff;
   background: #f5f5d5;
   transition: all .2s ease-in
 }
@@ -2803,7 +2800,6 @@ a.article-more-a {
   min-width: 200px;
   width: auto;
   font-size: 14px;
-  text-shadow: 1px 1px 1px #398199;
   bottom: -10px;
   -webkit-transform-origin: 100% 100%;
   transform-origin: 100% 100%;
@@ -2877,7 +2873,7 @@ a.article-more-a {
 
 .tooltip-left .tooltip-content {
   position: absolute;
-  background: rgba(36, 193, 246, .9);
+  background: #000;
   z-index: 9999;
   width: 200px;
   bottom: 50%;
