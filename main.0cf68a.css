@@ -2720,7 +2720,7 @@ a.article-more-a {
 }
 
 .jump-container:hover .icon-back {
-  background: rgba(36, 193, 246, .9)
+  background: rgb(0 0 0 / 90%)
 }
 
 .jump-container,
@@ -2776,7 +2776,7 @@ a.article-more-a {
 }
 
 .toc-container.tooltip-left:hover {
-  background: rgba(36, 193, 246, .9)
+  background: rgb(0 0 0 / 90%)
 }
 
 .toc-container.tooltip-left .icon-font {
@@ -3020,7 +3020,7 @@ a.article-more-a {
 }
 
 .tooltip-top .tooltip-inner {
-  background: rgba(36, 193, 246, .9);
+  background: rgb(0 0 0 / 90%);
   padding: 40px;
   -webkit-transform: translate3d(0, 100%, 0);
   transform: translate3d(0, 100%, 0);
