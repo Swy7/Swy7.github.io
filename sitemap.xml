@@ -291,27 +291,6 @@
 
   
   <url>
-    <loc>https://squareyk.github.io/tags/2020/</loc>
-    <lastmod>2021-06-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://squareyk.github.io/tags/%E7%9F%A5/</loc>
-    <lastmod>2021-06-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://squareyk.github.io/tags/%E5%BD%92%E6%A1%A3/</loc>
-    <lastmod>2021-06-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://squareyk.github.io/tags/2018/</loc>
     <lastmod>2021-06-04</lastmod>
     <changefreq>daily</changefreq>
@@ -326,7 +305,28 @@
   </url>
   
   <url>
+    <loc>https://squareyk.github.io/tags/%E5%BD%92%E6%A1%A3/</loc>
+    <lastmod>2021-06-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://squareyk.github.io/tags/2021/</loc>
+    <lastmod>2021-06-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://squareyk.github.io/tags/2020/</loc>
+    <lastmod>2021-06-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://squareyk.github.io/tags/%E7%9F%A5/</loc>
     <lastmod>2021-06-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
